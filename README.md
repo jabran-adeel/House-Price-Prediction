@@ -8,7 +8,7 @@ Predict housing prices using features like area, garage, number of rooms, and co
 - File used: `train.csv`
 
 ## 📦 Features Used:
-- OverallQual, GrLivArea, GarageCars, GarageArea, TotalBsmtSF, 1stFlrSF, FullBath, TotRmsAbvGrd, YearBuilt, Fireplaces
+- OverallQual, GrLivArea, GarageCars, GarageArea, TotalBsmtSF, 1stFlrSF, FullBath, TotRmsAbvGrd, YearBuilt, YearRemodAdd
 
 ## 🧠 Techniques Applied:
 - Feature Selection based on correlation
